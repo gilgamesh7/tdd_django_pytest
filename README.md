@@ -1,6 +1,6 @@
 # tdd_django_pytest
 
-# Learing Links
+# Learning Links
 - Udemy course - [Learn Pytest by building a full Django application with a Continuous Integration system, software testing best practices](https://sparknz.udemy.com/course/pytest-course/learn/lecture/23536728#overview)
 - [Course Repository on bitbucket](https://bitbucket.org/e-marco/my-pytest-course/src/master/)
 - [Pytest Documentation Home page](https://docs.pytest.org/en/stable/)
@@ -9,6 +9,13 @@
 - [Pytest Fixtures](https://docs.pytest.org/en/stable/explanation/fixtures.html)
 - [Pytest Parametrize Fixtures](https://docs.pytest.org/en/stable/how-to/parametrize.html)
 - [Pytest Assertions](https://docs.pytest.org/en/stable/how-to/assert.html)
+
+# Misc links
+[Website by Eden Marco](http://www.israeltechcompanies.com)
+
+# Differences from Course
+1. Repo : Github instead of bitbucket
+1. 
 
 # Command Line commands
 ## Run on current directory 
