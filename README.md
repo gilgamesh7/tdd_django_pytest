@@ -35,3 +35,12 @@ pytest . -v  -m "not slow"
 
 # Make pytest print 
 pytest . -v -s
+
+# Commands used to create backend
+1. Install & activate venv (python3 -m venv venv --upgrade-deps)
+1. Generate project : ./venv/bin/django-admin startproject coronavstech .
+1. Migrations : python3 manage.py makemigrations
+1. Migrations : python3 manage.py migrate
+1. Create admin user : python3 manage.py createsuperuser (vrbabu)
+1. Start server : python3 manage.py runserver
+1. Create app : python3 manage.py startapp companies

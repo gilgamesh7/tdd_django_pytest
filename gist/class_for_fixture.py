@@ -7,6 +7,5 @@ class Company:
     stock_symbol: str
 
     @property
-    def describe_company(self)->str:
+    def describe_company(self) -> str:
         return f"{self.name}:{self.stock_symbol}"
-
